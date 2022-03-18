@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62730892783",
+    "project_id": "covid-19-vaccine-availab-527a3",
+    "storage_bucket": "covid-19-vaccine-availab-527a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62730892783:android:818990be6d326b63e1b21a",
+        "android_client_info": {
+          "package_name": "com.example.covid_19vaccineavailabilityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62730892783-fl7f32u7o4qv2ri45gvrv3v68knofofh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA37p-M796CNVxdqIMi-MwCct4yPzH2gz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62730892783-fl7f32u7o4qv2ri45gvrv3v68knofofh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

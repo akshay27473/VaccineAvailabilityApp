@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vaccine Availability</string>
+    <string name="no_account">Not having account?<b> Signup</b></string>
+    <string name="already_account">Already have account?<b>Login</b></string>
+</resources>
